@@ -1,0 +1,22 @@
+{
+  "base_price": 1950,
+  "beamstation_catalog_url": "https://beamstation.com/datasets",
+  "beamstation_origin": "https://beamstation.com",
+  "category_group_name": "Restaurants",
+  "config_category": "census",
+  "config_description": "Complete restaurant market coverage for Vacaville, California with a population of over 102k. Filtered by the Restaurants category group, providing business profiles, review counts, contact information, and competitive benchmarks. Refreshed weekly.",
+  "config_name": "All Restaurants in Vacaville, California, US",
+  "export_job_id": "9084cc4c-60c5-4d4d-ad92-c881321684ae",
+  "github_org": "Beamstation-Datasets",
+  "id_short": 901742,
+  "location_name": "Vacaville",
+  "location_type": "city",
+  "repo_name": "all-restaurants-in-vacaville-california-us-sample-901742",
+  "sample_b2_path": "b2-export:BeamStation-ExportFiles/901742/beamstation_901742_restaurants-us-ca_SAMPLE_DIST.csv",
+  "sample_pct": 12.5,
+  "sample_records": 9,
+  "sample_sha256": "6eff749257b2274e30c244006bae12d620d3d9ad538a0ab14f896df9c2338838",
+  "sample_size_bytes": 36261,
+  "total_records": 72,
+  "updated_at": "2026-03-31T14:15:05.937505+00:00"
+}
