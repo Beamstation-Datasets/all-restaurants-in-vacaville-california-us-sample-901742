@@ -1,12 +1,12 @@
 {
-  "export_job_id": "9084cc4c-60c5-4d4d-ad92-c881321684ae",
+  "export_job_id": "8134c06f-7515-4034-b4d2-401f01080ab2",
   "id_short": 901742,
-  "published_at": "2026-04-15T07:44:13Z",
+  "published_at": "2026-04-18T07:12:15Z",
   "repo_name": "all-restaurants-in-vacaville-california-us-sample-901742",
   "sample_asset_name": "beamstation_901742_restaurants-us-ca_SAMPLE_DIST.csv",
   "sample_b2_path": "b2-export:BeamStation-ExportFiles/901742/beamstation_901742_restaurants-us-ca_SAMPLE_DIST.csv",
   "sample_records": 9,
   "sample_sha256": "6eff749257b2274e30c244006bae12d620d3d9ad538a0ab14f896df9c2338838",
   "sample_size_bytes": 36261,
-  "total_records": 72
+  "total_records": 99
 }
