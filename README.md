@@ -1,6 +1,6 @@
 # All Restaurants in Vacaville, California, US
 
-> Free BeamStation sample export with 10 rows and masked direct-contact fields.
+> Free BeamStation sample export with 11 rows and masked direct-contact fields.
 
 ## Snapshot
 
@@ -9,9 +9,9 @@
 | Dataset ID | `901742` |
 | Location | Vacaville |
 | Category | Restaurants |
-| Full dataset size | 109 records |
-| Free sample size | 10 records (9.17%) |
-| Last export | 2026-04-28T16:41:30.737322+00:00 |
+| Full dataset size | 113 records |
+| Free sample size | 11 records (9.73%) |
+| Last export | 2026-05-06T15:56:05.641706+00:00 |
 | Download | [Latest release asset](https://github.com/Beamstation-Datasets/all-restaurants-in-vacaville-california-us-sample-901742/releases/download/sample-latest/beamstation_901742_restaurants-us-ca_SAMPLE_DIST.csv) |
 
 ## What is in this sample
